@@ -1,6 +1,12 @@
 ### Hi there 👋
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1326?logoColor=dark%26project=%26recentMS=0%26showProject=false)
 
-![ASH1998's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true)
+<p align="center">
+  <a href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true"
+         alt="GitHub stats"/>
+  </a>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true)](https://ash1998.github.io/)
 

@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ash1998.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true&hide=Jupyter+Notebook,HTML"
          alt="Top Languages"/>
   </a>
   

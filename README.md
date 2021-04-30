@@ -11,7 +11,7 @@
 <p align="Left">
   <a href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true"
-         alt="Top Languages" align="Left"/>
+         alt="Top Languages"/>
   </a>
   
   <a  href="https://ash1998.github.io/">

@@ -8,9 +8,19 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true)](https://ash1998.github.io/)
+<p align="Left">
+  <a href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true"
+         alt="Top Languages" align="Left"/>
+  </a>
+  
+  <a  href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
+         alt="wakatime stats" align="Right"/>
+  </a>
+  
+</p>
 
-[![ASH1998's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true)](https://ash1998.github.io/)
 
 <!--
 **ASH1998/ASH1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

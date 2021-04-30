@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<p align="Left">
+<p align="center">
   <a href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true"
          alt="Top Languages"/>
@@ -16,7 +16,7 @@
   
 </p>
 
-<p align="Left">
+<p align="center">
     <a  href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
          alt="wakatime stats" align="Right"/>

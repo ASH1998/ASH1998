@@ -31,12 +31,27 @@ I am Ashutosh,
 
 <p align="left">
     <a  href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ASH1998&theme=tokyonight&show_icons=true"
+         alt="wakatime stats"/>
+  </a>
+  
+</p>
+
+<p align="left">
+    <a  href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
          alt="wakatime stats"/>
   </a>
   
 </p>
 
+<p align="left">
+    <a  href="https://ash1998.github.io/">
+    <img src="https://wakatime.com/share/@ASH1998/dffe5bbb-962c-4049-8a4b-6ff4f0094bfe.svg" width="800" height="300"
+         alt="wakatime stats"/>
+  </a>
+  
+</p>
 
 
 <!--

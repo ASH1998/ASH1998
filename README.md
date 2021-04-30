@@ -14,13 +14,15 @@
          alt="Top Languages"/>
   </a>
   
-  <a  href="https://ash1998.github.io/">
+</p>
+
+<p align="Left">
+    <a  href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
          alt="wakatime stats" align="Right"/>
   </a>
   
 </p>
-
 
 <!--
 **ASH1998/ASH1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

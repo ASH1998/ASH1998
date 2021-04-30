@@ -26,9 +26,8 @@ I am Ashutosh,
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/ash1998/"> <img src="https://img.icons8.com/doodle/30/000000/linkedin--v2.png"/> </a> <a href="mailto:prog.mishra@gmail.com"> <img src="https://img.icons8.com/dusk/30/000000/gmail-login.png"/></a> </a> <a href="https://www.quora.com/profile/Ashutosh-Mishra-361"> <img src="https://img.icons8.com/doodle/30/000000/quora--v1.png"/></a>
 
-<p align="left">
-<a href="https://stackoverflow.com/users/7454706/ashu2"><img src="https://stackoverflow.com/users/flair/7454706.png?theme=dark" width="208" height="58" alt="profile for ASH1998 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ASH1998 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-</p>
+
+<a href="https://stackexchange.com/users/10086190"><img src="https://stackexchange.com/users/flair/10086190.png?theme=dark" width="208" height="58" alt="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <p align="left">
     <a  href="https://ash1998.github.io/">

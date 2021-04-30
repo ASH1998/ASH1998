@@ -1,0 +1,60 @@
+### Hi there 👋
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1326?logoColor=dark%26project=%26recentMS=0%26showProject=false)
+
+<p align="center">
+  <a href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=tokyonight&hide=contribs,prs&show_icons=true"
+         alt="GitHub stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=tokyonight&show_icons=true"
+         alt="Top Languages"/>
+  </a>
+  
+</p>
+
+
+
+### WhoAmI
+I am Ashutosh,       
+ I love <img src="https://img.icons8.com/dusk/64/000000/python.png" width="24" alt="python"/>, <img src="https://img.icons8.com/plasticine/24/000000/bot.png" alt="AI"/>, and AI programming easier. I love how the ML is changing the world. I aim at contributing as much as I can to these fields. My research interests include Generative Adversarial Networks, Attention models, Sequence to Sequence models and Adversarial Learning. I am also interested in <img src="https://img.icons8.com/nolan/24/space-shuttle.png"/> and <img src="https://img.icons8.com/dusk/24/000000/naruto.png"/>.                 
+ 
+ 🔭 I’m currently working on some interesting POCs on customer interaction domain.
+
+
+
+
+
+📫 How to reach me: <a href="https://www.linkedin.com/in/ash1998/"> <img src="https://img.icons8.com/doodle/30/000000/linkedin--v2.png"/> </a> <a href="mailto:prog.mishra@gmail.com"> <img src="https://img.icons8.com/dusk/30/000000/gmail-login.png"/></a>
+
+<p align="left">
+<a href="https://stackoverflow.com/users/7454706/ashu2"><img src="https://stackoverflow.com/users/flair/7454706.png?theme=dark" width="208" height="58" alt="profile for ASH1998 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ASH1998 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+</p>
+
+<p align="left">
+    <a  href="https://ash1998.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
+         alt="wakatime stats"/>
+  </a>
+  
+</p>
+
+
+
+<!--
+**ASH1998/ASH1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

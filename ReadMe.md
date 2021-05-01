@@ -37,13 +37,6 @@ I am Ashutosh,
   
 </p>
 
-<p align="left">
-    <a  href="https://ash1998.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ASH1998&theme=tokyonight&show_icons=true"
-         alt="wakatime stats"/>
-  </a>
-  
-</p>
 
 <p align="left">
     <a  href="https://ash1998.github.io/">

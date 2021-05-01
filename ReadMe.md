@@ -40,7 +40,7 @@ I am Ashutosh,
 
 <p align="left">
     <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/dffe5bbb-962c-4049-8a4b-6ff4f0094bfe.svg" width="800" height="300"
+    <img src="https://wakatime.com/share/@ASH1998/96242afa-1425-4027-9d84-bf1382c0a58c.svg" width="800" height="500"
          alt="wakatime stats"/>
   </a>
   

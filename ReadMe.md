@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Credits of stats and visualisations: [This awesome repo by Anurag](https://github.com/anuraghazra/github-readme-stats)
+Credits of stats and visualisations: [This awesome repo by Anurag](https://github.com/anuraghazra/github-readme-stats) and [wakatime](https://wakatime.com/dashboard)

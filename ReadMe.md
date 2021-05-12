@@ -37,7 +37,7 @@ I am Ashutosh,
   
 </p>
 
-
+<!--
 <p align="left">
     <a  href="https://ash1998.github.io/">
     <img src="https://wakatime.com/share/@ASH1998/ce16bdc9-030e-4861-910b-1ce7a155e7d9.svg" width="800" height="500"
@@ -46,7 +46,7 @@ I am Ashutosh,
   
 </p>
 
-
+-->
 <!--
 **ASH1998/ASH1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,4 +62,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Credits of stats and visualisations: [This awesome repo by Anurag](https://github.com/anuraghazra/github-readme-stats) and [wakatime](https://wakatime.com/dashboard)
+Credits of stats and visualisations: [This awesome repo by Anurag](https://github.com/anuraghazra/github-readme-stats)

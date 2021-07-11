@@ -29,13 +29,6 @@ I am Ashutosh,
 
 <a href="https://stackexchange.com/users/10086190"><img src="https://stackexchange.com/users/flair/10086190.png?theme=dark" width="208" height="58" alt="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<p align="left">
-    <a  href="https://ash1998.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@ASH1998&theme=blueberry&show_icons=true"
-         alt="wakatime stats"/>
-  </a>
-  
-</p>
 
 <!--
 <p align="left">
@@ -61,5 +54,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Credits of stats and visualisations: [This awesome repo by Anurag](https://github.com/anuraghazra/github-readme-stats)

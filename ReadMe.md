@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 ![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1326?logoColor=dark%26project=%26recentMS=0%26showProject=false)                   
 
-<p align="center">
+<p align="left">
   <a href="https://ash1998.github.io/">
     <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=nightowl&hide=contribs,prs&show_icons=true"

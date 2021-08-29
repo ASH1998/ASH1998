@@ -39,7 +39,7 @@ I am Ashutosh,
 
 <a href="https://stackexchange.com/users/10086190"><img src="https://stackexchange.com/users/flair/10086190.png?theme=dark" width="208" height="58" alt="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-![Monthly contribution](https://salty-lake-26404.herokuapp.com/graph?username=ASH1998&theme=redical&custom_title=Monthly%20Contribution%20Graph&area=true&hide_border=true)
+<a href="https://github.com/ASH1998"><img src="https://salty-lake-26404.herokuapp.com/graph?username=ASH1998&theme=redical&custom_title=Monthly%20Contribution%20Graph&area=true&hide_border=true">
 
 <!--
 <p align="left">

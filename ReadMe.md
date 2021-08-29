@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=nightowl&hide=contribs,prs&show_icons=true"
          alt="GitHub stats"/>
   </p>
-  <p align="left">
+  <p align="center">
   <a href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true&hide=Jupyter+Notebook,HTML"
          alt="Top Languages"/>

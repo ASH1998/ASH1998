@@ -1,12 +1,18 @@
-### Hi there 👋
-![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1326?logoColor=dark%26project=%26recentMS=0%26showProject=false)
+### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+![Code Time](https://img.shields.io/endpoint?style=social&url=https://codetime-api.datreks.com/badge/1326?logoColor=dark%26project=%26recentMS=0%26showProject=false)                   
 
 <p align="center">
   <a href="https://ash1998.github.io/">
+    <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ASH1998&count_private=true&theme=nightowl&hide=contribs,prs&show_icons=true"
-         alt="GitHub stats"/>
+         alt="GitHub stats"/> <img align="right" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=ASH1998&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" /></p>
+
   </a>
 </p>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ASH1998}/count.svg" alt="ASH1998 :: Profile Visitor's Count" /></p>
 
 <p align="center">
   <a href="https://ash1998.github.io/">

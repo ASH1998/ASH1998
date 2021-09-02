@@ -1,5 +1,5 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-<p align="center"><img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" 
+<p align="center"><img src="https://github.com/ASH1998/ASH1998/blob/main/utils/focus-animation.gif" 
 alt="ASH1998 :: Profile Visitor's Count" /></p>
 
 <p align="center">
@@ -42,25 +42,10 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
      <img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=ASH1998&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
   </p>
 
-<a href="https://github.com/ASH1998"><img src="https://salty-lake-26404.herokuapp.com/graph?username=ASH1998&theme=redical&custom_title=Monthly%20Contribution%20Graph&area=true&hide_border=true">
-  
-![trophs](https://github-profile-trophy.vercel.app/?username=ASH1998&theme=onedark)
-
-<!--
-<p align="left">
-    <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/ce16bdc9-030e-4861-910b-1ce7a155e7d9.svg" width="800" height="500"
-         alt="wakatime stats"/>
-  </a>
-  
-</p>
 
 ---
-
--->
-
----
-<details><summary>Other Weekly | Coding Stats</summary>
+### Other Weekly | Coding Stats for NERDS <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">
+<details><summary></summary>
 <p>
   
 📊 **This Week I Spent My Time On:**
@@ -80,6 +65,11 @@ No Activity tracked this Week
   </a>
   
 </p>
+  
+ <a href="https://github.com/ASH1998"><img src="https://salty-lake-26404.herokuapp.com/graph?username=ASH1998&theme=redical&custom_title=Monthly%20Contribution%20Graph&area=true&hide_border=true">
+  
+![trophs](https://github-profile-trophy.vercel.app/?username=ASH1998&theme=onedark)
+
   
 </details>
 

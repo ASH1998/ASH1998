@@ -36,11 +36,10 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
   <a href="https://ash1998.github.io/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true&hide=Jupyter+Notebook,HTML"
          alt="Top Languages"/>
+    <img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=ASH1998&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
   </a>
   </p>
-  <p>
-     <img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=ASH1998&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
-  </p>
+
 
 
 ---
@@ -50,21 +49,22 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
   
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
   
  
 </p>
-  
- <p align="left">
+
+<div>
+ <p>
     <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/74d2fcbe-1531-4565-83de-86eb19adf6d1.svg" width="800" height="500"
+    <img src="https://wakatime.com/share/@ASH1998/74d2fcbe-1531-4565-83de-86eb19adf6d1.svg" width="400" height="300"
+         alt="wakatime stats"/>
+    <img src="https://wakatime.com/share/@ASH1998/e1580e1d-a4e8-466e-bff3-fbc78b5f8203.svg" width="400" height="300"
          alt="wakatime stats"/>
   </a>
   
 </p>
+  </div>
   
  <a href="https://github.com/ASH1998"><img src="https://salty-lake-26404.herokuapp.com/graph?username=ASH1998&theme=redical&custom_title=Monthly%20Contribution%20Graph&area=true&hide_border=true">
   

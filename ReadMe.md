@@ -60,7 +60,7 @@ No Activity tracked this Week
 <div>
  <p>
     <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/74d2fcbe-1531-4565-83de-86eb19adf6d1.svg" width="400" height="300"
+    <img src="https://wakatime.com/share/@ASH1998/4acfb6d9-14b2-417f-bcde-e2c203ed59b8.svg" width="400" height="300"
          alt="wakatime stats"/>
     <img src="https://wakatime.com/share/@ASH1998/e1580e1d-a4e8-466e-bff3-fbc78b5f8203.svg" width="400" height="300"
          alt="wakatime stats"/>

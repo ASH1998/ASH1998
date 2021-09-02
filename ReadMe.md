@@ -51,7 +51,7 @@ I am Ashutosh,
 </p>
 -->
 
-📊 **this week i spent my time on:**
+📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
@@ -72,4 +72,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Few things to add
+1. Github trophies : https://github-profile-trophy.vercel.app/?username=ASH1998&theme=onedark
+
 -->

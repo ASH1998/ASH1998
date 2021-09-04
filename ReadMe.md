@@ -15,7 +15,7 @@ alt="ASH1998" width="400" height="300" /></p>
 ---
 ### WhoAmI
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Data Scientist working for a hyper-personalization startup in UK 
+- 🏦 I'm a Data Scientist working for a hyper-personalization startup of UK 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📖 My research interests include Generative Adversarial Networks, Attention models, Sequence to Sequence models and Adversarial Learning
 - 📝 I love how the ML is changing the world. I aim at contributing as much as I can to these fields

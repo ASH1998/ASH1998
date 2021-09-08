@@ -15,11 +15,12 @@ alt="ASH1998" width="400" height="300" /></p>
 ---
 ### WhoAmI
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Data Scientist working for a hyper-personalization startup of UK 
+- 🏦 I'm a Machine Learning Engineer solving problems in hyper-personalisation domain.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📖 My research interests include Generative Adversarial Networks, Attention models, Sequence to Sequence models and Adversarial Learning
 - 📝 I love how the ML is changing the world. I aim at contributing as much as I can to these fields
 - 💬 Talk to me about <img src="https://img.icons8.com/dusk/24/000000/naruto.png"/>, python, space, silicon valley & startups
+- Currently I am working with genetic algorithms
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/ash1998/"> <img src="https://img.icons8.com/doodle/30/000000/linkedin--v2.png"/> </a> <a href="mailto:prog.mishra@gmail.com"> <img src="https://img.icons8.com/dusk/30/000000/gmail-login.png"/></a> </a> <a href="https://www.quora.com/profile/Ashutosh-Mishra-361"> <img src="https://img.icons8.com/doodle/30/000000/quora--v1.png"/></a>
 

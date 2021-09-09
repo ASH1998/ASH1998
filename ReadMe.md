@@ -65,7 +65,7 @@ HTML       8 mins          ▒░░░░░░░░░░░░░░░░�
 <div>
  <p>
     <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/85940e11-7fdd-45bf-be6f-952b50c593ef.svg" width="400" height="300"
+    <img src="https://wakatime.com/share/@ASH1998/334e485e-79a8-4d23-8b05-953df7d52ebf.svg" width="400" height="300"
          alt="wakatime stats"/>
     <img src="https://wakatime.com/share/@ASH1998/e1580e1d-a4e8-466e-bff3-fbc78b5f8203.svg" width="400" height="300"
          alt="wakatime stats"/>

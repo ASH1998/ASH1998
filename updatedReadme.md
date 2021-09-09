@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 <p align="center"><img src="https://github.com/ASH1998/ASH1998/blob/main/utils/focus-animation.gif" 
-alt="ASH1998 :: Profile Visitor's Count" /></p>
+alt="ASH1998" width="400" height="300" /></p>
 
 <p align="center">
   <a href="https://ash1998.github.io/">
@@ -15,11 +15,12 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
 ---
 ### WhoAmI
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Data Scientist working for a hyper-personalization startup in UK 
+- 🏦 I'm a Machine Learning Engineer solving problems in hyper-personalisation domain.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📖 My research interests include Generative Adversarial Networks, Attention models, Sequence to Sequence models and Adversarial Learning
 - 📝 I love how the ML is changing the world. I aim at contributing as much as I can to these fields
 - 💬 Talk to me about <img src="https://img.icons8.com/dusk/24/000000/naruto.png"/>, python, space, silicon valley & startups
+- Currently I am working with genetic algorithms
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/ash1998/"> <img src="https://img.icons8.com/doodle/30/000000/linkedin--v2.png"/> </a> <a href="mailto:prog.mishra@gmail.com"> <img src="https://img.icons8.com/dusk/30/000000/gmail-login.png"/></a> </a> <a href="https://www.quora.com/profile/Ashutosh-Mishra-361"> <img src="https://img.icons8.com/doodle/30/000000/quora--v1.png"/></a>
 
@@ -49,6 +50,13 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
   
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+Other      10 hrs 12 mins  ███████████████▓░░░░░░░░░   63.28 % 
+Python     4 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.00 % 
+Markdown   1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+YAML       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+HTML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+```
 <!--END_SECTION:waka-->
   
  
@@ -57,7 +65,7 @@ alt="ASH1998 :: Profile Visitor's Count" /></p>
 <div>
  <p>
     <a  href="https://ash1998.github.io/">
-    <img src="https://wakatime.com/share/@ASH1998/74d2fcbe-1531-4565-83de-86eb19adf6d1.svg" width="400" height="300"
+    <img src="https://wakatime.com/share/@ASH1998/334e485e-79a8-4d23-8b05-953df7d52ebf.svg" width="400" height="300"
          alt="wakatime stats"/>
     <img src="https://wakatime.com/share/@ASH1998/e1580e1d-a4e8-466e-bff3-fbc78b5f8203.svg" width="400" height="300"
          alt="wakatime stats"/>

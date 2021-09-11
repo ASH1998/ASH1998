@@ -35,7 +35,7 @@ alt="ASH1998" width="400" height="300" /></p>
   </p>
   <p>
   <a href="https://ash1998.github.io/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true&hide=Jupyter+Notebook,HTML"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH1998&layout=compact&theme=nightowl&show_icons=true&hide=Jupyter+Notebook,HTML,SCSS,CSS"
          alt="Top Languages"/>
     <img align="l" width=430 src="http://github-readme-streak-stats.herokuapp.com?user=ASH1998&theme=material-palenight&hide_border=false&border=DDCFC4&fire=DD210FFF&background=011627" />
   </a>

@@ -58,7 +58,7 @@ Python     4 hrs 28 mins   ███████████░░░░░░�
   
  
 </p>
-
+  
 <div>
  <p>
     <a  href="https://ash1998.github.io/">
@@ -79,7 +79,16 @@ Python     4 hrs 28 mins   ███████████░░░░░░�
 </details>
 
 
-
+### Coder Rank : [ASH1998](https://profile.codersrank.io/user/ash1998/)
+  <details> <summ></summ>
+    <img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ASH1998&labels=true"
+/>  
+  
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ASH1998&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+  </details>
 ---
 
 

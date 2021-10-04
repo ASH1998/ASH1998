@@ -87,7 +87,7 @@ Text         2 mins          ░░░░░░░░░░░░░░░░░
 Coders Rank Profile: [ASH1998](https://profile.codersrank.io/user/ash1998/)
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=ASH1998&labels=true&width=1000&branding=false&step=5tooltip=true"/>  
   
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ASH1998&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=ASH1998&badges=3&show-avatar=true&branding=false&style=--header-bg-color:%23000;--border-radius:10px" />
  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ASH1998&show-other-skills=true" />
   </details>
 

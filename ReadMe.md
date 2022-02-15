@@ -51,6 +51,8 @@ alt="ASH1998" width="400" height="300" /></p>
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 7 mins
+
 Python   1 hr 7 mins     █████████████████████████   99.46 % 
 ```
 <!--END_SECTION:waka-->

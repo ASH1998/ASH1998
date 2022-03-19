@@ -52,11 +52,8 @@ alt="ASH1998" width="400" height="300" /></p>
 <!--START_SECTION:waka-->
 
 ```text
-Python           4 hrs 15 mins   ███████████████████████░░   92.02 %
-Jupyter          14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
-GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python    2 hrs 41 mins   ████████████████████████▓   99.28 %
+Jupyter   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->

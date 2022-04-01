@@ -52,7 +52,8 @@ alt="ASH1998" width="400" height="300" /></p>
 <!--START_SECTION:waka-->
 
 ```text
-Other        24 mins         █████████░░░░░░░░░░░░░░░░   35.86 %
+Python           1 hr 42 mins    ███████████████▓░░░░░░░░░   62.19 %
+Other            24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
 ```
 
 <!--END_SECTION:waka-->

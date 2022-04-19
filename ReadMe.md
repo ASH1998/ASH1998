@@ -52,12 +52,8 @@ alt="ASH1998" width="400" height="300" /></p>
 <!--START_SECTION:waka-->
 
 ```text
-Python           6 hrs 21 mins   ████████████████████▓░░░░   82.10 %
-JSON             37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
-Jupyter          21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-Markdown         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Text             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Python           8 hrs 23 mins   ███████████████░░░░░░░░░░   60.34 %
+Other            4 hrs 20 mins   ███████▓░░░░░░░░░░░░░░░░░   31.24 %
 ```
 
 <!--END_SECTION:waka-->

@@ -102,5 +102,5 @@ Few things to add
 
 -->
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Visitor's count(appending**) :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ASH1998}/count.svg" alt="ASH1998 :: Profile Visitor's Count" /></p>

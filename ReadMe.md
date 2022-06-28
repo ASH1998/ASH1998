@@ -1,16 +1,5 @@
-### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-<p align="center"><img src="https://github.com/ASH1998/ASH1998/blob/main/utils/focus-animation.gif" 
-alt="ASH1998" width="400" height="300" /></p>
 
-<p align="center">
-  <a href="https://ash1998.github.io/">
-  </a>
 
-</p>
-<h4 align="center"> http://ashutoshmishra.dev/ </h4>
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{ASH1998}/count.svg" alt="ASH1998 :: Profile Visitor's Count" /></p>
 
 ---
 ### WhoAmI
@@ -112,3 +101,6 @@ Few things to add
 1. Github trophies : https://github-profile-trophy.vercel.app/?username=ASH1998&theme=onedark
 
 -->
+
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ASH1998}/count.svg" alt="ASH1998 :: Profile Visitor's Count" /></p>

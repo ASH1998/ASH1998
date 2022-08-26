@@ -24,6 +24,8 @@ alt="ASH1998" width="400" height="300" /></p>
 - 💬 Talk to me about <img src="https://img.icons8.com/dusk/24/000000/naruto.png"/>, python, space, silicon valley & startups
 - Currently I am working with genetic algorithms
 
+[![wakatime](https://wakatime.com/badge/user/611fc491-00e3-44b2-95cd-9b0ef9dc7598.svg)](https://wakatime.com/@611fc491-00e3-44b2-95cd-9b0ef9dc7598)
+
 📫 How to reach me: <a href="https://www.linkedin.com/in/ash1998/"> <img src="https://img.icons8.com/doodle/30/000000/linkedin--v2.png"/> </a> <a href="mailto:prog.mishra@gmail.com"> <img src="https://img.icons8.com/dusk/30/000000/gmail-login.png"/></a> </a> <a href="https://www.quora.com/profile/Ashutosh-Mishra-361"> <img src="https://img.icons8.com/doodle/30/000000/quora--v1.png"/></a>
 
 <a href="https://stackexchange.com/users/10086190"><img src="https://stackexchange.com/users/flair/10086190.png?theme=dark" width="208" height="58" alt="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ASHu2 on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
@@ -60,8 +62,8 @@ YAML       15 mins         ▒░░░░░░░░░░░░░░░░�
 HTML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
-  
- 
+<p>
+  <a href="https://wakatime.com/badge/user/611fc491-00e3-44b2-95cd-9b0ef9dc7598.svg"><img src="https://wakatime.com/badge/user/611fc491-00e3-44b2-95cd-9b0ef9dc7598.svg" alt="Coding time" /></a>
 </p>
 
 <div>

@@ -41,9 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 55 mins   ███████████████████████░░   92.57 %
-SSH Config   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       1 hr 6 mins     ████████████████████▓░░░░   82.55 %
+SSH Config   13 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
 ```
 
 <!--END_SECTION:waka-->

@@ -41,9 +41,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 51 mins   █████████████████████████   99.82 %
+Python   3 hrs 6 mins    █████████████████████████   99.91 %
 CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->

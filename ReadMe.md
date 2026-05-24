@@ -3,7 +3,7 @@
 
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Hey there! This is Ashutosh
-- I'm a **GenAI Engineer** working on large-scale personalization systems — building **AI pipelines** that process 10M+ daily users and power intelligent recommendations.  
+- I'm a **GenAI Engineer** working on large-scale personalization systems, building **AI pipelines** that process 20M+ daily users and power intelligent recommendations.  
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🧠 Currently building **LLM-integrated graph intelligence systems** for internal knowledge Q&A and entity resolution.  
 - 🧩 Passionate about **Generative AI**, **agentic systems**, and **AI-driven observability** for complex infra.  
